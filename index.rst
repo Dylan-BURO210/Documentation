@@ -1,4 +1,4 @@
-Welcome to iSHARE
+Welcome to iSHARE V2
 =================
 
 iSHARE is a collaborative effort to improve conditions for data-sharing for organisations within as well as across sectors. The iSHARE Scheme results in a set of agreements which improve circumstances for data exchange.
